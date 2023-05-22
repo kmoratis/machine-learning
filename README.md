@@ -5,3 +5,5 @@
 - Linear Models
 
 - Regularization
+
+- Decision Trees - Pipelines
