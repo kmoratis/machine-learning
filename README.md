@@ -7,3 +7,5 @@
 - Regularization
 
 - Decision Trees - Pipelines
+
+- Ensemble Models
