@@ -1,6 +1,6 @@
-# Machine_Learning
+# Machine-Learning-Course
 
-### Assignments on Machine Learning Course.
+### Assignments on Machine Learning University Course.
 
 - Linear Models
 
