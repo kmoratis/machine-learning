@@ -1,4 +1,4 @@
-# Machine-Learning-Course
+# Machine-Learning
 
 ### Assignments on Machine Learning University Course.
 
